@@ -4,7 +4,7 @@ This project is a **Landing Page** developed as part of my learning journey in t
 
 ## 📸 Preview
 
-![DNC Landing Page]([./path-to-screenshot.png](https://github.com/RochaAriel/LandingPage/blob/main/IMG/Hero.svg)) <!-- Replace with the correct image path -->
+![DNC Landing Page]([(https://github.com/RochaAriel/LandingPage/blob/main/IMG/Hero.svg) <!-- Replace with the correct image path -->
 
 ## 🚀 Technologies Used
 
