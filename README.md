@@ -4,7 +4,7 @@ This project is a **Landing Page** developed as part of my learning journey in t
 
 ## 📸 Preview
 
-![DNC Landing Page](./landingPage/IMG/logo.svg) <!-- Replace with the correct image path -->
+![DNC Landing Page](https://github.com/RochaAriel/LandingPage/blob/main/IMG/LOGO.svg)
 
 ## 🚀 Technologies Used
 
@@ -15,7 +15,15 @@ This project is a **Landing Page** developed as part of my learning journey in t
 
 ## ✨ Features
 
-- ✅ Modern and respons
+- ✅ Modern and responsive layout  
+- ✅ Course benefits section  
+- ✅ Introductory video block  
+- ✅ Real student testimonials  
+- ✅ Informational icons and intuitive navigation  
+
+## 📁 Project Structure
+
+
 
 landing-page-dnc/
 ├── index.html
