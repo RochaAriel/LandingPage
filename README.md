@@ -1,6 +1,6 @@
 # 💻 Landing Page - DNC School
 
-This project is a **Landing Page** developed as part of my learning journey in the **Software Engineering** course by [DNC]. The goal of the page is to present the free Introduction to Technology course, highlighting its benefits and testimonials from former students.
+This project is a **Landing Page** developed as part of my learning journey in the **Software Engineering** course by DNC. The goal of the page is to present the free Introduction to Technology course, highlighting its benefits and testimonials from former students.
 
 ## 📸 Preview
 
