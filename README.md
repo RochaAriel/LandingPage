@@ -10,14 +10,13 @@ This project is a **Landing Page** developed as part of my learning journey in t
 
 - HTML5  
 - CSS3  
-- JavaScript (optional, if used)  
+- JavaScript
 - Responsive design principles
 
 ## ✨ Features
 
 - ✅ Modern and responsive layout  
-- ✅ Course benefits section  
-- ✅ Introductory video block  
+- ✅ Course benefits section   
 - ✅ Real student testimonials  
 - ✅ Informational icons and intuitive navigation  
 
@@ -28,8 +27,8 @@ This project is a **Landing Page** developed as part of my learning journey in t
 landing-page-dnc/
 ├── index.html
 ├── style.css
-├── script.js (if applicable)
-├── assets/
+├── script.js
+├── IMG/
 │ ├── images/
 │ └── icons/
 └── README.md
