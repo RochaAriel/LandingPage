@@ -1,4 +1,26 @@
-*{
+* {
+    margin: 0;
+    padding: 0;
     background-color: black;
+    background-image: url(/IMG/images/Hero.svg);
+    background-repeat: no-repeat;
+    font-family: 'inter',sans-serif ;
+}
+h1,p {
+    color: white;
 }
 
+#LOGO {
+    margin-top: 50px;
+    margin-left: 75px;
+}
+
+#Hero{
+        margin-left:  150px;
+        margin-top: 50px;
+} 
+
+#Herotext{
+    margin-left:  150px;
+    margin-top: 35px;
+}	
