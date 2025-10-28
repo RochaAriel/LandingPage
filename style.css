@@ -42,7 +42,7 @@ color: white;
 }
 
 .icone{
-    margin: 50px 0px 50px 100px;
+    margin: 50px 0px 50px 70px;
     padding: 25px;
 }
 
@@ -59,10 +59,18 @@ color: white;
 #titulovideo{
     color: #247BA0;
     margin-top: 50px;
+
 }
 
 #video{
-   margin: 50px 25px 50px 100px;
+   margin: 50px 25px 50px 105px;
+}
+
+#text-video{
+
+  gap: 40px; /* espaçamento entre vídeo e texto */
+  flex-wrap: wrap; /* mantém responsivo em telas menores */
+  padding: 40px 0;
 }
 
 #carrossel{
