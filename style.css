@@ -67,23 +67,31 @@ color: white;
 }
 
 #text-video{
-
-  gap: 40px; /* espaçamento entre vídeo e texto */
-  flex-wrap: wrap; /* mantém responsivo em telas menores */
-  padding: 40px 0;
+  gap: 30px; /* espaçamento entre vídeo e texto */
+  flex-wrap:wrap; /* mantém responsivo em telas menores */
+  padding: 20px 0;
 }
 
+/* Carrossel */
 #carrossel{
     background-color: #247ba0;
     padding: 50px;
+    
 }
 
 #titulo-carrossel{
     color: white;
     text-align: center;
-    font-size: 30px;
+    font-size: 25px;
 }
 
-#div-cards{    display: grid;
-    grid-auto-flow: column;
+#div-cards{    
+   display: grid;
+   grid-auto-flow: column;
+   align-items: center;
+   margin-top: 30px;
+}
+
+.cards{
+margin-left: 50px;
 }
