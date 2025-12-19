@@ -67,12 +67,10 @@ color: white;
 }
 
 #text-video{
-  gap: 30px; /* espaçamento entre vídeo e texto */
-  flex-wrap:wrap; /* mantém responsivo em telas menores */
   padding: 20px 0;
 }
 
-/* Carrossel */
+/* Carrossel inicio */
 #carrossel{
     background-color: #247ba0;
     padding: 50px;
@@ -85,13 +83,24 @@ color: white;
     font-size: 25px;
 }
 
-#div-cards{    
-   display: grid;
-   grid-auto-flow: column;
-   align-items: center;
-   margin-top: 30px;
+#div-cards{
+margin-top: 25px;
+display: grid;
+grid-auto-flow: column;
 }
 
 .cards{
-margin-left: 50px;
+margin-left: 50px; 
+ }
+
+#seta-esquerda{
+    display: none;
+}
+
+#samanta{
+    display:none;
+}
+
+.seta{
+    margin-top: 20% ;
 }
